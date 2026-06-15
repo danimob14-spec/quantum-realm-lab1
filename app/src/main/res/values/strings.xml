@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">آزمایشگاه کوانتوم</string>
+    <string name="tab_simulations">شبیه‌سازی‌ها</string>
+    <string name="tab_wiki">ویکی کوانتوم</string>
+    <string name="tab_puzzles">پازل‌ها</string>
+    <string name="tab_about">درباره</string>
+</resources>

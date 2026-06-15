@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Realm Lab",
+  "description": "Educational quantum physics app with simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
